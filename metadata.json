@@ -1,0 +1,7 @@
+{
+  "name": "EDEN BUSINESS CENTER LTD",
+  "description": "Professional manufacturing and business solutions website for EDEN BUSINESS CENTER LTD, featuring premium design, product showcases, and interactive maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
